@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hendrix-spritemaps-v2';
+const CACHE_NAME = 'hendrix-spritemaps-fusion-v3';
 const APP_SHELL = [
   './',
   './index.html',
